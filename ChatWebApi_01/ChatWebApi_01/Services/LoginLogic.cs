@@ -7,15 +7,11 @@ namespace ChatWebApi_01.Services
         public bool LoginCheck(LoginDTO loginData)
         {  
             string checkUser = "user1";
+            string loginPass = loginData.passWord;
             string checkPass = getPass(checkUser);
-            if(loginData.passWord != checkPass) 
-            {
-                return false; 
-            }
-            else
-            {
-                return true;
-            }
+            LoginCheckDataDTO checkData = createLoginCheckData(loginPass, checkPass);
+            bool result = passCheck(checkData);
+            return result;
         }
         public string getPass(string checkUser)
         {
@@ -24,5 +20,18 @@ namespace ChatWebApi_01.Services
             return checkPass;
 
         }
+        public bool passCheck(LoginCheckDataDTO data)
+        {
+            return data.passWord == data.checkPass;
+        }
+        public LoginCheckDataDTO createLoginCheckData(string loginPass, string checkPass)
+        {
+            return new LoginCheckDataDTO
+            {
+                passWord = loginPass,
+                checkPass = checkPass
+            };
+        }
+
     }
 }
