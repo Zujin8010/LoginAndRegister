@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ComputerScience\\ChatBox\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj": {}
+    "C:\\ComputerScience\\Git\\LoginAndRegister\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj": {}
   },
   "projects": {
-    "C:\\ComputerScience\\ChatBox\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj": {
+    "C:\\ComputerScience\\Git\\LoginAndRegister\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ComputerScience\\ChatBox\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj",
+        "projectUniqueName": "C:\\ComputerScience\\Git\\LoginAndRegister\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj",
         "projectName": "ChatWebApi_01",
-        "projectPath": "C:\\ComputerScience\\ChatBox\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj",
+        "projectPath": "C:\\ComputerScience\\Git\\LoginAndRegister\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj",
         "packagesPath": "C:\\Users\\Zuu\\.nuget\\packages\\",
-        "outputPath": "C:\\ComputerScience\\ChatBox\\ChatWebApi_01\\ChatWebApi_01\\obj\\",
+        "outputPath": "C:\\ComputerScience\\Git\\LoginAndRegister\\ChatWebApi_01\\ChatWebApi_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zuu\\AppData\\Roaming\\NuGet\\NuGet.Config",

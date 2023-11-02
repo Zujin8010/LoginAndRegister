@@ -8,9 +8,6 @@ namespace ChatWebApi_01.Services
         {  
             string checkUser = "user1";
             string checkPass = getPass(checkUser);
-
-
-
             if(loginData.passWord != checkPass) 
             {
                 return false; 

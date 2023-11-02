@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "anQMirNlEyKPBeDv0X4ktWMZSksGvYlIbiDN45rPX3xCKPQPuGnmgMzqFClUB7x0rXlj9tXNtOUM91qIoqYxPQ==",
+  "dgSpecHash": "5AQ2GsUGo8l6bf8QoUMoycWaGU2Yt5yrBHdSQL7TGaCQVmlOSSwtwZXciZlH9NqKu7Xak8/Kl6PH9/jEoazVfA==",
   "success": true,
-  "projectFilePath": "C:\\ComputerScience\\ChatBox\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj",
+  "projectFilePath": "C:\\ComputerScience\\Git\\LoginAndRegister\\ChatWebApi_01\\ChatWebApi_01\\ChatWebApi_01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zuu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
   ],
